@@ -1,3 +1,6 @@
 # ConThings
 
 此仓库用于保存一些常见软件的配置文件。
+
+wezterm
+nvim
