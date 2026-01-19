@@ -1,0 +1,34 @@
+/* 修改新建书签弹出面板大小 */
+#editBookmarkPanelContent {
+    min-width: 48em !important;
+}
+
+#editBMPanel_folderTree {
+    min-height: 600px !important;
+}
+
+/* 固定五个图标在扩展栏最后面 */
+#fxa-toolbar-menu-button {
+    order: 5 !important;
+    margin-right: 3px !important;
+}
+
+#unified-extensions-button {
+    order: 4 !important;
+    margin-right: 3px !important;
+}
+
+#firefox-view-button {
+    order: 3 !important;
+    margin-right: 3px !important;
+}
+
+#alltabs-button {
+    order: 2 !important;
+    margin-right: 3px !important;
+}
+
+#_testpilot-containers-browser-action {
+    order: 1 !important;
+    margin-right: 3px !important;
+}
