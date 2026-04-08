@@ -17,3 +17,8 @@ curl -o ~/.tmux.conf "https://raw.githubusercontent.com/Ranba/ConThings/refs/hea
 ```
 然后重新启动一下`tmux`即可。
 
+### wezterm
+
+下载`wezterm.lua`到本地：
+```bash
+curl -o ~/.wezterm.lua "https://raw.githubusercontent.com/Ranba/ConThings/refs/heads/main/wezterm/wezterm.lua"
